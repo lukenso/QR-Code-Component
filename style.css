@@ -38,8 +38,7 @@ h1 {
   font-size: 22px;
   font-style: normal;
   font-family: "outfit";
-  margin-left: 16px;
-  margin-right: 16px;
+  margin: 24px 16px 16px 16px;
 }
 
 p {
