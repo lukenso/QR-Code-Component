@@ -10,4 +10,5 @@
 - CSS 
 
 ### Author
-Linkedin - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
+- Linkedin - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
+- FrontEndMentor - [Click here](https://www.frontendmentor.io/profile/lukenso)
